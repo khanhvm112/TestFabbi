@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestFabbi</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="title_select_medal">Please select a medal</string>
+    <string name="title_enter_num_of_people">Please enter Number of people</string>
+    <string name="title_select_restaurant">Please select a Restaurant</string>
+    <string name="title_select_dish">Please select a Dish</string>
+    <string name="title_enter_num_of_servings">Please enter no of servings</string>
+    <string name="medal">Medal</string>
+    <string name="no_of_people">No of People</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="dishes">Dishes</string>
+</resources>
